@@ -1,0 +1,9 @@
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "gruvhugo"]
+	path = gruvhugo
+	url = https://gitlab.com/avron/gruvhugo.git
+[submodule "themes/gruvhugo"]
+	path = themes/gruvhugo
+	url = https://gitlab.com/avron/gruvhugo.git

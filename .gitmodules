@@ -4,3 +4,7 @@
 [submodule "themes/gruvhugo"]
 	path = themes/gruvhugo
 	url = https://gitlab.com/avron/gruvhugo.git
+[submodule "public"]
+	path = public
+	url = https://github.com/themayurkumbhar/themayurkumbhar.github.io.git
+	branch = portfolio-with-hugo-papermod

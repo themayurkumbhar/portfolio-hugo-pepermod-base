@@ -1,12 +1,12 @@
-+++
-title = "Getting Started With Github Static Pages"
-description = "Enthusiastic Technology explorer! Love's Biking, Hiking & Eating Delicious Food!"
-date = "2022-06-28"
-aliases = ["posts", "articles", "blog", "showcase", "docs"]
-author = "themayurkumbhar"
-tags = ["getting-started", "markdown", "portfolio", "github-pages"]
-draft = false
-+++
+---
+title: "Getting Started With Github Static Pages"
+description: "Enthusiastic Technology explorer! Love's Biking, Hiking & Eating Delicious Food!"
+date: "2022-06-28"
+aliases: ["posts", "articles", "blog", "showcase", "docs"]
+author: "themayurkumbhar"
+tags: ["getting-started", "markdown", "portfolio", "github-pages"]
+draft: false
+---
 
 If you reading this blog means you want to create minimal portfolio or profile without thinking more around designing 
 but should be more professional and small, compact & easy to implement without any setup, learning any new language. 

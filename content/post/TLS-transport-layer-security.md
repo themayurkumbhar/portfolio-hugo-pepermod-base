@@ -1,6 +1,6 @@
 ---
 title: "TLS Transport Layer Security"
-description: "Understanding basics of TLS (transport layer security) protocol."
+description: "Understanding basics of TLS (Transport Layer Security) protocol."
 date: 2023-01-29T22:21:34+05:30
 draft: true
 aliases: ["posts", "articles", "blog", "showcase", "docs"]
@@ -9,7 +9,7 @@ tags: ["TLS", "Transport Layer Security", "protocol", "web security"]
 draft: false
 ---
 
-## TLS (Transport Layer Security) ?
+## TLS (Transport Layer Security)
 
 TLS is a security protocol aimed at enhancing privacy and protecting data during Internet communications. 
 Its primary function is to encrypt communication between web servers and applications, such as when a web browser accesses a website.
@@ -17,18 +17,18 @@ Its primary function is to encrypt communication between web servers and applica
 > The Internet Engineering Task Force (IETF), an international standards body, proposed TLS as a means of securing internet communications. 
 > TLS 1.0, the first version of the protocol, was released in 1999, and the most recent iteration, TLS 1.3, was published in 2018.
 
-## TLS Vs. SSL?
+## TLS Vs. SSL
 
 **TLS** (Transport Layer Security) is based on the **SSL** (Secure Sockets Layer) protocol, which was developed by **Netscape**. 
 **TLS 1.0** was initially intended to be **SSL 3.1**, but the name was changed before its release as it no longer had a connection to Netscape. 
 Despite this, the terms TLS and SSL are often used interchangeably.
 
-## TLS and HTTPS?
+## TLS and HTTPS
 
 **HTTPS** is a **secure implementation** of the **TLS encryption protocol**, built on top of the **HTTP protocol**. 
 It is widely used for **webservices, APIs, and websites**.
 
-## TLS components:
+## TLS components
 
 1. **Encryption**: Hide data being transferred between parties, by encrypting
 2. **Authentication**: Ensures that the parties exchanging information are who they claim to be.
@@ -45,7 +45,7 @@ The initiation of a TLS connection is done through a sequence known as the **TLS
 When a user accesses a website that utilizes TLS, the TLS Handshake process starts between the user's device, 
 also known as the client device, and the web server.
 
-**TLS handshake**:
+### TLS handshake:
 
 * Specify which **version of TLS to use** (TLS 1.0, 1.2, 1.3, etc.)
 * Decide on which **cipher suites to use**

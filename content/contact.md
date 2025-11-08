@@ -13,4 +13,4 @@ layout = "about"
 
 ### 📄 Resume
 
-&emsp;&emsp; This profile is self-sufficient to know about me 😜. But still if you need the profile copy, you can get [HERE!](https://drive.google.com/file/d/1GhZrgROrWVyiZyP7zFvkwD7QfVbgvApC/view?usp=sharing)
+&emsp;&emsp; This profile is self-sufficient to know about me 😜. But still if you need the profile copy, you can get [HERE!](https://drive.google.com/file/d/1Rl_e9x9z_D7omuKC1soklTz2eEDOe1G2)

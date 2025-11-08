@@ -89,6 +89,8 @@ params:
       url: "https://twitter.com/themayurkumbhar"
     - name: instagram
       url: "https://instagram.com/themayurkumbhar"
+    - name: medium
+      url: "https://medium.com/@themayurkumbhar"
 
 #  analytics:
 #    google:

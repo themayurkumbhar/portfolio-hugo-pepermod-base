@@ -10,13 +10,21 @@ layout = "about"
 
 ### [Addepar](https://addepar.com/) 🪙📈
 
-#### 🖥️ Senior Software Developer
+#### 🖥️ Staff Software Engineer
 * `September 2025 - Present`
 
-#### 🖥️ Senior Software Developer
+#### 🖥️ Senior Software Engineer
 * `February 2024 - September 2025`
 
 Building and Scaling Addepar trading and wealth management platforms.
+
+
+### [Velotio](https://www.rsystems.com/investors-news/r-systems-completes-acquisition-of-velotio/) 💼🛠️
+
+#### 🖥️ Lead Engineer
+* `August 2023 - February 2024`
+
+Working as software solution consultant for multiple clients.
 
 
 ### [GoJek Tech](https://www.gojek.com/en/th/gopay/) 🛵💳

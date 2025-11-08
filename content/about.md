@@ -8,9 +8,24 @@ layout = "about"
 
 ## Work Experience ⚙️
 
+### [Addepar](https://addepar.com/) 🪙📈
+
+#### 🖥️ Senior Software Developer
+* `September 2025 - Present`
+
+#### 🖥️ Senior Software Developer
+* `February 2024 - September 2025`
+
+Building and Scaling Addepar trading and wealth management platforms.
+
+
 ### [GoJek Tech](https://www.gojek.com/en/th/gopay/) 🛵💳
+
+#### 🖥️ Senior Software Developer
+* `January 2023 - July 2023`
+
 #### 🖥️ Software Developer
-* `December 2021 - Current`
+* `December 2021 - January 2023`
 
 Enabling high scale payments experience with distributed systems.
 
@@ -32,9 +47,9 @@ Enabling high scale payments experience with distributed systems.
 ## Education 🎓
 
 ### 🧑‍🎓 [Birla Institute of Technology and Science, Pilani](https://bits-pilani-wilp.ac.in/m-tech/software-engineering.php)
-#### M.Tech Computer Engineering
-* `July 2021 - Persuing`
+#### Master of Technology - MTech, Software Engineering
+* `July 2021 - May 2023`
 
 ### 🎓 [Walchand College Of Engineering, Sangli](http://www.walchandsangli.ac.in/)
-#### B.Tech Computer Science and Engineering
+#### Bachelor’s of Technology - BTech, Computer Science and Engineering
 * `July 2013 - May 2017`
